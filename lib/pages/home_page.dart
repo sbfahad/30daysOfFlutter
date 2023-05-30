@@ -23,7 +23,6 @@ class HomePage extends StatelessWidget {
               style: TextStyle(
                 fontSize: 16,
                 color: Colors.lightGreen,
-                fontStyle: FontStyle.italic,
                 fontWeight: FontWeight.bold,
               ),
             ),
